@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "name": "System Administrator",
+      "email": "admin@platform.internal",
+      "phone": "+18005550100",
+      "passwordHash": "$2b$10$y3JzOWyYXM8Z7IL2DWZubumHortlZD45jhRs0abQbelukcGmdGVZi",
+      "role": "admin",
+      "isMainAdmin": true,
+      "status": "active",
+      "phoneVerified": true,
+      "emailVerified": true,
+      "createdAt": "2026-11-03T03:44:57.034Z",
+      "updatedAt": "2026-11-03T03:44:57.034Z",
+      "lastLoginAt": "2026-11-03T03:45:05.692Z"
+    },
+    {
+      "id": "usr-101",
+      "name": "Sarah Connor",
+      "email": "sarah.connor@example.com",
+      "phone": "+14155552671",
+      "passwordHash": "$2b$10$PLYrpOtiZEQpPGUPkI1xiu8VWpxU65wPhAQ9d2gC.Q2UM47DEc.Mq",
+      "role": "user",
+      "status": "active",
+      "phoneVerified": true,
+      "emailVerified": true,
+      "createdAt": "2026-10-29T03:44:57.130Z",
+      "updatedAt": "2026-11-01T03:44:57.130Z",
+      "lastLoginAt": "2026-11-02T23:44:57.130Z"
+    },
+    {
+      "id": "usr-102",
+      "name": "Marcus Vance",
+      "email": "marcus.vance@example.com",
+      "phone": "+14155558832",
+      "passwordHash": "$2b$10$PLYrpOtiZEQpPGUPkI1xiu8VWpxU65wPhAQ9d2gC.Q2UM47DEc.Mq",
+      "role": "user",
+      "status": "suspended",
+      "suspendedReason": "Suspended by admin for investigation of policy violation",
+      "suspendedAt": "2026-11-02T03:44:57.130Z",
+      "phoneVerified": true,
+      "emailVerified": false,
+      "createdAt": "2026-10-22T03:44:57.130Z",
+      "updatedAt": "2026-11-02T03:44:57.130Z"
+    }
+  ],
+  "otps": [],
+  "failedAttempts": {},
+  "activityLogs": [
+    {
+      "id": "log-1793677505693-9e1lt",
+      "timestamp": "2026-11-03T03:45:05.693Z",
+      "actorId": "admin",
+      "actorName": "System Administrator",
+      "actorRole": "admin",
+      "action": "LOGIN_SUCCESS",
+      "details": "User authenticated successfully (Admin Access).",
+      "targetUserId": "admin",
+      "targetUserEmail": "admin@platform.internal",
+      "ip": "::ffff:127.0.0.1"
+    },
+    {
+      "id": "log-1793677502088-qw7r4",
+      "timestamp": "2026-11-03T03:45:02.088Z",
+      "actorId": "admin",
+      "actorName": "System Administrator",
+      "actorRole": "admin",
+      "action": "LOGIN_SUCCESS",
+      "details": "User authenticated successfully (Admin Access).",
+      "targetUserId": "admin",
+      "targetUserEmail": "admin@platform.internal",
+      "ip": "::ffff:127.0.0.1"
+    },
+    {
+      "id": "log-1",
+      "timestamp": "2026-10-22T03:44:57.130Z",
+      "actorId": "system",
+      "actorName": "System Bootstrapper",
+      "actorRole": "admin",
+      "action": "USER_REGISTERED",
+      "targetUserId": "admin",
+      "targetUserEmail": "admin@platform.internal",
+      "details": "Root admin account \"admin\" provisioned with full system permissions."
+    },
+    {
+      "id": "log-2",
+      "timestamp": "2026-10-29T03:44:57.130Z",
+      "actorId": "usr-101",
+      "actorName": "Sarah Connor",
+      "actorRole": "user",
+      "action": "USER_REGISTERED",
+      "targetUserId": "usr-101",
+      "targetUserEmail": "sarah.connor@example.com",
+      "details": "User registered with verified phone (+14155552671) and email."
+    },
+    {
+      "id": "log-3",
+      "timestamp": "2026-11-02T03:44:57.130Z",
+      "actorId": "admin",
+      "actorName": "System Administrator",
+      "actorRole": "admin",
+      "action": "USER_SUSPENDED",
+      "targetUserId": "usr-102",
+      "targetUserEmail": "marcus.vance@example.com",
+      "details": "Account suspended by administrator."
+    }
+  ],
+  "content": {
+    "announcement": {
+      "enabled": true,
+      "text": "System Update: Role-Based Access Control and Dual OTP Security are active.",
+      "variant": "info"
+    },
+    "hero": {
+      "badge": "Enterprise Security Platform",
+      "headline": "Unified Identity, Role-Based Access & Admin Control",
+      "subheadline": "Engineered with dual-channel SMS and Email verification, bcrypt credential security, brute-force shielding, and granular admin authority.",
+      "primaryCtaText": "Register New Account",
+      "secondaryCtaText": "Sign In to Portal"
+    },
+    "faqs": [
+      {
+        "id": "faq-1",
+        "question": "How does dual-channel verification work?",
+        "answer": "Upon registration, a 6-digit one-time passcode (OTP) is dispatched via SMS to your registered mobile phone, and a confirmation code is dispatched to your email address. Both must be confirmed to complete verification."
+      },
+      {
+        "id": "faq-2",
+        "question": "What privileges does the main Admin account have?",
+        "answer": "The primary admin account (ID: \"admin\") holds root administrative permissions. Only this account can promote users to administrators or demote them, suspend or delete any account, and manage system-wide settings."
+      },
+      {
+        "id": "faq-3",
+        "question": "Can I log in using just my phone number?",
+        "answer": "Yes. In addition to password-based login, you can switch to \"Login via SMS OTP\" to receive a temporary one-time login passcode without entering your password."
+      },
+      {
+        "id": "faq-4",
+        "question": "How are failed logins and brute-force attempts handled?",
+        "answer": "The platform tracks failed attempts per identifier. After reaching the configured limit (default: 5 attempts), the account is locked for 15 minutes, and all incidents are recorded in the security audit logs."
+      }
+    ],
+    "contactInfo": {
+      "email": "security-team@platform.internal",
+      "phone": "+1 (800) 555-0199",
+      "address": "Enterprise Security HQ, 500 Silicon Vista, Suite 400",
+      "hours": "24/7 Security Operations Center"
+    }
+  },
+  "settings": {
+    "maxFailedAttempts": 5,
+    "lockoutDurationMinutes": 15,
+    "otpExpirySeconds": 300,
+    "allowNewRegistrations": true,
+    "maintenanceMode": false,
+    "providers": {
+      "smsProvider": "simulator",
+      "emailProvider": "simulator"
+    }
+  }
+}

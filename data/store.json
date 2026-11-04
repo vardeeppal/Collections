@@ -1,0 +1,1119 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "The Camille Silk Slip Dress",
+      "slug": "camille-silk-slip-dress",
+      "category": "Dresses",
+      "description": "Crafted from fluid 22-momme pure mulberry silk, the Camille Slip Dress features a relaxed bias-cut silhouette that drapes gracefully over the contours of the body. Finished with delicate hand-rolled hems, adjustable rouleau straps, and a gentle cowl neckline.",
+      "price": 285,
+      "originalPrice": 340,
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Champagne Gold",
+          "hex": "#E6D5B8"
+        },
+        {
+          "name": "Midnight Noir",
+          "hex": "#1C1917"
+        },
+        {
+          "name": "Blush Taupe",
+          "hex": "#D8B4A6"
+        }
+      ],
+      "stock": {
+        "XS": 4,
+        "S": 7,
+        "M": 12,
+        "L": 6,
+        "XL": 3,
+        "XXL": 2
+      },
+      "tags": [
+        "Bestseller",
+        "Sale"
+      ],
+      "fabric": "100% Grade 6A Mulberry Silk (22 Momme)",
+      "care": "Dry clean or hand wash gently in cold water with silk detergent. Line dry in shade.",
+      "details": [
+        "Bias cut for natural fluid stretch",
+        "Subtle cowl neckline with internal facing",
+        "Adjustable lingerie straps with gold-tone hardware",
+        "Mid-calf midi length (48\" from high shoulder)"
+      ],
+      "rating": 4.9,
+      "reviewCount": 38,
+      "featured": true
+    },
+    {
+      "id": "prod-2",
+      "name": "The Madeleine Washed Linen Midi Dress",
+      "slug": "madeleine-washed-linen-midi-dress",
+      "category": "Dresses",
+      "description": "Breathable, textural French washed linen with an effortless architectural shape. Designed with a structured square neckline, detachable tie belt to define the waist, and concealed side seam pockets for everyday ease.",
+      "price": 220,
+      "images": [
+        "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Natural Flax",
+          "hex": "#D9CEBE"
+        },
+        {
+          "name": "Warm Terracotta",
+          "hex": "#BF6854"
+        },
+        {
+          "name": "Sage Olive",
+          "hex": "#858E79"
+        }
+      ],
+      "stock": {
+        "XS": 3,
+        "S": 7,
+        "M": 9,
+        "L": 5,
+        "XL": 4,
+        "XXL": 2
+      },
+      "tags": [
+        "New"
+      ],
+      "fabric": "100% Normandy Washed Linen (Oeko-Tex Standard 100)",
+      "care": "Machine wash cold on gentle cycle. Warm iron or tumble dry low for relaxed texture.",
+      "details": [
+        "Pre-washed for extraordinary softness",
+        "Concealed deep side pockets",
+        "Real horn button fastening",
+        "Includes removable self-fabric waist sash"
+      ],
+      "rating": 5,
+      "reviewCount": 1,
+      "featured": true
+    },
+    {
+      "id": "prod-3",
+      "name": "The Sophia Tiered Pleated Gown",
+      "slug": "sophia-tiered-pleated-gown",
+      "category": "Dresses",
+      "description": "An ethereal evening statement crafted from micro-pleated chiffon. Features an architectural high neckline, plunging back with grosgrain ribbon closure, and tiered cascading godets.",
+      "price": 395,
+      "originalPrice": 460,
+      "images": [
+        "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Alabaster Ivory",
+          "hex": "#F5F2EB"
+        },
+        {
+          "name": "Noir Onyx",
+          "hex": "#141414"
+        }
+      ],
+      "stock": {
+        "XS": 2,
+        "S": 4,
+        "M": 6,
+        "L": 3,
+        "XL": 1,
+        "XXL": 0
+      },
+      "tags": [
+        "Sale"
+      ],
+      "fabric": "100% Recycled Poly Georgette with Silk Habotai Lining",
+      "care": "Specialist dry clean only.",
+      "details": [
+        "Accordion micro-pleating throughout",
+        "Semi-sheer tiered skirt with interior lining",
+        "Open cowl back with silk ribbons",
+        "Floor length with subtle trailing train"
+      ],
+      "rating": 5,
+      "reviewCount": 14,
+      "featured": false
+    },
+    {
+      "id": "prod-4",
+      "name": "The Celine Crisp Poplin Wrap Blouse",
+      "slug": "celine-crisp-poplin-wrap-blouse",
+      "category": "Tops & Blouses",
+      "description": "A tailored study in proportion, the Celine blouse is cut from crisp 120-thread-count organic cotton poplin. The sculptural wrap front fastens with extended asymmetric side ties, balanced by dramatic French cuffs.",
+      "price": 165,
+      "images": [
+        "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1608234808654-2a8875fa74ec?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Sky Chambray",
+          "hex": "#C7D8E6"
+        },
+        {
+          "name": "Pinstripe Charcoal",
+          "hex": "#373A3C"
+        }
+      ],
+      "stock": {
+        "XS": 5,
+        "S": 11,
+        "M": 14,
+        "L": 8,
+        "XL": 4,
+        "XXL": 3
+      },
+      "tags": [
+        "Bestseller"
+      ],
+      "fabric": "100% GOTS Certified Long-Staple Organic Cotton",
+      "care": "Machine wash warm, hang dry. Crisp iron while slightly damp.",
+      "details": [
+        "Sculptural crossover wrap silhouette",
+        "Elongated French cuffs with double pearl buttons",
+        "Pointed spread collar",
+        "Hip-length styling for tailored trousers or denim"
+      ],
+      "rating": 4.9,
+      "reviewCount": 46,
+      "featured": true
+    },
+    {
+      "id": "prod-5",
+      "name": "The Juliette Sheer Silk Organza Shirt",
+      "slug": "juliette-sheer-silk-organza-shirt",
+      "category": "Tops & Blouses",
+      "description": "An ethereal sheer layering blouse tailored in featherweight 100% silk organza. Features exaggerated pointed 70s-inspired collars and luminous mother-of-pearl buttons for modern evening wear.",
+      "price": 240,
+      "images": [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Pearl Oyster",
+          "hex": "#F3EFEA"
+        },
+        {
+          "name": "Smoky Charcoal",
+          "hex": "#2A2928"
+        }
+      ],
+      "stock": {
+        "XS": 3,
+        "S": 6,
+        "M": 7,
+        "L": 4,
+        "XL": 2,
+        "XXL": 1
+      },
+      "tags": [
+        "New"
+      ],
+      "fabric": "100% Pure Silk Organza",
+      "care": "Dry clean only.",
+      "details": [
+        "Delicate sheer finish",
+        "Genuine natural mother-of-pearl buttons",
+        "French seam construction throughout",
+        "Pair with a silk bralette or tailored blazer"
+      ],
+      "rating": 4.7,
+      "reviewCount": 19,
+      "featured": false
+    },
+    {
+      "id": "prod-6",
+      "name": "The Genevieve Ribbed Cashmere Top",
+      "slug": "genevieve-ribbed-cashmere-top",
+      "category": "Tops & Blouses",
+      "description": "Spun from certified Grade-A Mongolian cashmere in an ultra-fine 16-gauge rib. Designed with an elegant mock neck and long fitted sleeves that extend slightly past the knuckles.",
+      "price": 195,
+      "images": [
+        "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Oatmeal Heather",
+          "hex": "#DED5C8"
+        },
+        {
+          "name": "Dark Espresso",
+          "hex": "#3D2F28"
+        },
+        {
+          "name": "Soft Cream",
+          "hex": "#FAF7F2"
+        }
+      ],
+      "stock": {
+        "XS": 4,
+        "S": 8,
+        "M": 9,
+        "L": 5,
+        "XL": 3,
+        "XXL": 2
+      },
+      "tags": [
+        "Bestseller"
+      ],
+      "fabric": "100% Sustainable Grade-A Mongolian Cashmere",
+      "care": "Hand wash in lukewarm water with wool wash, dry flat on towel.",
+      "details": [
+        "Second-skin comfortable stretch",
+        "Seamless knitted neckline",
+        "Ultra-fine yarn resistant to pilling",
+        "Naturally temperature regulating"
+      ],
+      "rating": 4.9,
+      "reviewCount": 31,
+      "featured": false
+    },
+    {
+      "id": "prod-7",
+      "name": "The Vivienne Bias-Cut Satin Maxi Skirt",
+      "slug": "vivienne-bias-cut-satin-maxi-skirt",
+      "category": "Skirts",
+      "description": "A perennial capsule wardrobe hero. The Vivienne skirt is precision cut on the bias in heavyweight silk-viscose satin that cascades smoothly to the ankles without clinging. Features a comfortable concealed elastic waistband.",
+      "price": 180,
+      "originalPrice": 210,
+      "images": [
+        "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Espresso Bronzed",
+          "hex": "#47382F"
+        },
+        {
+          "name": "Champagne Luster",
+          "hex": "#EADCC9"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#0A0A0A"
+        }
+      ],
+      "stock": {
+        "XS": 5,
+        "S": 9,
+        "M": 12,
+        "L": 7,
+        "XL": 4,
+        "XXL": 2
+      },
+      "tags": [
+        "Bestseller",
+        "Sale"
+      ],
+      "fabric": "70% Viscose, 30% Silk Satin",
+      "care": "Dry clean or cold delicate wash inside a protective mesh bag.",
+      "details": [
+        "Flattering bias cut for natural body contour",
+        "Flat front waist with soft internal elastic",
+        "Subtle high-sheen satin face with matte interior",
+        "Floor-grazing maxi hemline"
+      ],
+      "rating": 4.8,
+      "reviewCount": 52,
+      "featured": true
+    },
+    {
+      "id": "prod-8",
+      "name": "The Elodie Pleated Wool Wrap Skirt",
+      "slug": "elodie-pleated-wool-wrap-skirt",
+      "category": "Skirts",
+      "description": "Impeccable sartorial tailoring in pure virgin merino wool. Sharp permanent knife pleats along one hip transition into a clean wrap silhouette fastened with an Italian tortoiseshell buckle.",
+      "price": 225,
+      "images": [
+        "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Heather Taupe",
+          "hex": "#A89F95"
+        },
+        {
+          "name": "Deep Camel",
+          "hex": "#9E7B5C"
+        }
+      ],
+      "stock": {
+        "XS": 3,
+        "S": 6,
+        "M": 7,
+        "L": 4,
+        "XL": 2,
+        "XXL": 1
+      },
+      "tags": [
+        "New"
+      ],
+      "fabric": "100% Virgin Merino Wool, fully lined in 100% Cupro",
+      "care": "Dry clean only.",
+      "details": [
+        "Permanent heat-set knife pleats",
+        "Adjustable Italian horn buckle fastening",
+        "Anti-static cupro lining",
+        "Hits just below the knee"
+      ],
+      "rating": 4.7,
+      "reviewCount": 15,
+      "featured": false
+    },
+    {
+      "id": "prod-9",
+      "name": "The Astrid Tailored Wide-Leg Trouser",
+      "slug": "astrid-tailored-wide-leg-trouser",
+      "category": "Pants & Jeans",
+      "description": "Cut with high-waisted authority in four-season Italian wool gabardine. Double front pleats create a structured silhouette that elongates the leg while falling in an easy wide drape.",
+      "price": 215,
+      "images": [
+        "https://images.unsplash.com/photo-1509551388413-e18d0ac5d495?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Ecru Chalk",
+          "hex": "#EFECE6"
+        },
+        {
+          "name": "Midnight Navy",
+          "hex": "#1A2332"
+        },
+        {
+          "name": "Slate Charcoal",
+          "hex": "#383736"
+        }
+      ],
+      "stock": {
+        "XS": 6,
+        "S": 10,
+        "M": 12,
+        "L": 7,
+        "XL": 4,
+        "XXL": 2
+      },
+      "tags": [
+        "Bestseller"
+      ],
+      "fabric": "98% Italian Virgin Wool, 2% Elastane for ease",
+      "care": "Dry clean recommended.",
+      "details": [
+        "High-rise waist with extended tab closure",
+        "Double front pleats and crisp pressed center creases",
+        "Deep functional side pockets and back welt pockets",
+        "Generous 32\" inseam for wear with heels or tailoring"
+      ],
+      "rating": 4.9,
+      "reviewCount": 64,
+      "featured": true
+    },
+    {
+      "id": "prod-10",
+      "name": "The Mara High-Rise Relaxed Raw Denim",
+      "slug": "mara-high-rise-relaxed-raw-denim",
+      "category": "Pants & Jeans",
+      "description": "Woven on vintage Toyoda shuttle looms in Okayama, Japan. 13.5 oz authentic selvedge cotton denim with zero synthetic stretch. Tailored to sit high on the natural waist with a straight, relaxed leg.",
+      "price": 175,
+      "images": [
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1582533561751-ef6f6ab93a2e?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Vintage Indigo",
+          "hex": "#304358"
+        },
+        {
+          "name": "Washed Bone",
+          "hex": "#E8E4DA"
+        }
+      ],
+      "stock": {
+        "XS": 4,
+        "S": 8,
+        "M": 9,
+        "L": 6,
+        "XL": 3,
+        "XXL": 1
+      },
+      "tags": [
+        "New"
+      ],
+      "fabric": "100% Japanese Selvedge Cotton (13.5 oz)",
+      "care": "Wash inside-out in cold water, hang dry to preserve indigo character.",
+      "details": [
+        "Classic red-line selvedge visible at cuff",
+        "Custom copper rivets and button fly",
+        "High-waisted fit with gentle break at ankle",
+        "Softens and molds to your body with each wear"
+      ],
+      "rating": 4.8,
+      "reviewCount": 29,
+      "featured": false
+    },
+    {
+      "id": "prod-11",
+      "name": "The Helene Double-Breasted Wool Coat",
+      "slug": "helene-double-breasted-wool-coat",
+      "category": "Outerwear",
+      "description": "An heirloom coat meticulously constructed from double-faced virgin wool and cashmere. Features hand-stitched pick detailing along the notch lapels, dropped shoulders, and a self-tie sash belt.",
+      "price": 540,
+      "originalPrice": 620,
+      "images": [
+        "https://images.unsplash.com/photo-1539533018447-63fcce667823?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Classic Camel",
+          "hex": "#B08A60"
+        },
+        {
+          "name": "Midnight Charcoal",
+          "hex": "#18181A"
+        }
+      ],
+      "stock": {
+        "XS": 2,
+        "S": 5,
+        "M": 6,
+        "L": 4,
+        "XL": 2,
+        "XXL": 1
+      },
+      "tags": [
+        "Bestseller",
+        "Sale"
+      ],
+      "fabric": "90% Virgin Wool, 10% Grade-A Mongolian Cashmere",
+      "care": "Specialist dry clean only.",
+      "details": [
+        "Double-faced construction: unlined for featherlight warmth",
+        "Hand-finished pick-stitched lapels",
+        "Detachable sash belt with horn belt loops",
+        "Calf-length silhouette (47\" back length)"
+      ],
+      "rating": 5,
+      "reviewCount": 41,
+      "featured": true
+    },
+    {
+      "id": "prod-12",
+      "name": "The Charlotte Relaxed Atelier Blazer",
+      "slug": "charlotte-relaxed-atelier-blazer",
+      "category": "Outerwear",
+      "description": "A study in effortless masculine-meets-feminine tailoring. Cut in an oversized boyfriend fit from structured wool and linen blend with lightly padded shoulders, horn buttons, and jetted flap pockets.",
+      "price": 320,
+      "images": [
+        "https://images.unsplash.com/photo-1554412933-514a83d2f3c8?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Warm Putty",
+          "hex": "#D5CCC0"
+        },
+        {
+          "name": "Graphite Pinstripe",
+          "hex": "#404245"
+        }
+      ],
+      "stock": {
+        "XS": 3,
+        "S": 7,
+        "M": 8,
+        "L": 5,
+        "XL": 3,
+        "XXL": 1
+      },
+      "tags": [
+        "New"
+      ],
+      "fabric": "55% Wool, 45% French Linen, fully lined in Cupro",
+      "care": "Dry clean only.",
+      "details": [
+        "Relaxed straight silhouette with vented back",
+        "Slightly padded shoulders for architectural drape",
+        "Real horn buttons at front and cuffs",
+        "Interior breast pocket for smartphone/cards"
+      ],
+      "rating": 4.9,
+      "reviewCount": 26,
+      "featured": true
+    },
+    {
+      "id": "prod-13",
+      "name": "The Seraphina Cashmere Cocoon Cardigan",
+      "slug": "seraphina-cashmere-cocoon-cardigan",
+      "category": "Outerwear",
+      "description": "Sumptuous 4-ply cashmere knitted into a cocoon cardigan. Features an enveloping shawl collar, oversized bone buttons, and deep patch pockets for cozy luxury.",
+      "price": 290,
+      "images": [
+        "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Warm Oatmeal",
+          "hex": "#DBD2C3"
+        },
+        {
+          "name": "Dusky Rose",
+          "hex": "#CBA499"
+        }
+      ],
+      "stock": {
+        "XS": 4,
+        "S": 6,
+        "M": 7,
+        "L": 4,
+        "XL": 2,
+        "XXL": 1
+      },
+      "tags": [
+        "Bestseller"
+      ],
+      "fabric": "100% 4-Ply Grade-A Mongolian Cashmere",
+      "care": "Hand wash gently with cashmere shampoo or dry clean.",
+      "details": [
+        "Oversized cocoon cut with dropped shoulders",
+        "Ribbed cuffs and hem with rolled trim",
+        "Deep front patch pockets",
+        "Substantial heavyweight knit"
+      ],
+      "rating": 4.8,
+      "reviewCount": 33,
+      "featured": false
+    },
+    {
+      "id": "prod-14",
+      "name": "The Studio Sculpt Ribbed Set",
+      "slug": "studio-sculpt-ribbed-set",
+      "category": "Activewear",
+      "description": "Engineered for Pilates, movement, and lounging. A two-piece set featuring a square-neck crop top with built-in shelf support and matching high-rise ribbed leggings in buttery, compressive recycled micro-knit.",
+      "price": 145,
+      "images": [
+        "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1506152983158-b4a74a01c721?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Sage Eucalyptus",
+          "hex": "#4A5D52"
+        },
+        {
+          "name": "Cocoa Clay",
+          "hex": "#755B51"
+        },
+        {
+          "name": "Pure Jet",
+          "hex": "#111111"
+        }
+      ],
+      "stock": {
+        "XS": 5,
+        "S": 10,
+        "M": 12,
+        "L": 8,
+        "XL": 4,
+        "XXL": 2
+      },
+      "tags": [
+        "New"
+      ],
+      "fabric": "82% Recycled Polyamide, 18% Elastane with brushed matte touch",
+      "care": "Machine wash cold on gentle cycle, tumble dry low or hang.",
+      "details": [
+        "4-way stretch with medium compressive sculpting",
+        "Moisture-wicking and quick-drying yarn",
+        "Seamless waistband that does not dig or roll",
+        "Includes both crop tank and ankle leggings"
+      ],
+      "rating": 4.9,
+      "reviewCount": 57,
+      "featured": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "AUR-353479",
+      "customer": {
+        "fullName": "Amara Patel",
+        "email": "amara@example.com",
+        "phone": "555-1234",
+        "street": "100 Market St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94105",
+        "country": "United States"
+      },
+      "items": [
+        {
+          "productId": "prod-2",
+          "name": "The Madeleine Washed Linen Midi Dress",
+          "price": 220,
+          "size": "M",
+          "color": {
+            "name": "Champagne",
+            "hex": "#E5D3B3"
+          },
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=1000&q=80"
+        }
+      ],
+      "subtotal": 220,
+      "discountAmount": 0,
+      "shippingMethod": {
+        "id": "standard",
+        "name": "Atelier Standard Delivery",
+        "description": "3–5 business days via carbon-neutral courier. Complimentary on orders over $150.",
+        "price": 8,
+        "freeThreshold": 150
+      },
+      "shippingCost": 0,
+      "taxRegion": "CA",
+      "taxRate": 0.0925,
+      "taxAmount": 20.35,
+      "total": 240.35,
+      "status": "Delivered",
+      "paymentMethod": "test_simulation",
+      "createdAt": "2026-11-02T17:28:05.542Z",
+      "updatedAt": "2026-11-02T17:28:05.595Z",
+      "emailReceiptSent": true,
+      "stripePaymentIntentId": "pi_sim_AUR-353479_mvzj8g5a"
+    },
+    {
+      "id": "AUR-525762",
+      "customer": {
+        "fullName": "Test User",
+        "email": "test@example.com",
+        "phone": "123",
+        "street": "123 Market St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94105",
+        "country": "United States"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "The Camille Silk Slip Dress",
+          "price": 285,
+          "size": "S",
+          "color": {
+            "name": "Champagne Gold",
+            "hex": "#E6D5B8"
+          },
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1000&q=80"
+        }
+      ],
+      "subtotal": 285,
+      "discountCode": "WELCOME10",
+      "discountAmount": 28.5,
+      "shippingMethod": {
+        "id": "standard",
+        "name": "Atelier Standard Delivery",
+        "description": "3–5 business days via carbon-neutral courier. Complimentary on orders over $150.",
+        "price": 8,
+        "freeThreshold": 150
+      },
+      "shippingCost": 0,
+      "taxRegion": "CA",
+      "taxRate": 0.0925,
+      "taxAmount": 23.73,
+      "total": 280.23,
+      "status": "Paid",
+      "paymentMethod": "test_simulation",
+      "createdAt": "2026-11-02T12:14:55.094Z",
+      "updatedAt": "2026-11-02T12:15:01.703Z",
+      "emailReceiptSent": false
+    },
+    {
+      "id": "ORD-89241",
+      "userId": "user-demo-1",
+      "customer": {
+        "fullName": "Eleanor Vance",
+        "email": "eleanor.vance@example.com",
+        "phone": "+1 (415) 555-0192",
+        "street": "450 Sutter Street",
+        "apartment": "Apt 12B",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94108",
+        "country": "United States",
+        "isDefault": true
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "The Camille Silk Slip Dress",
+          "price": 285,
+          "size": "S",
+          "color": {
+            "name": "Champagne Gold",
+            "hex": "#E6D5B8"
+          },
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1000&q=80"
+        },
+        {
+          "productId": "prod-4",
+          "name": "The Celine Crisp Poplin Wrap Blouse",
+          "price": 165,
+          "size": "S",
+          "color": {
+            "name": "Optic White",
+            "hex": "#FFFFFF"
+          },
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?auto=format&fit=crop&w=1000&q=80"
+        }
+      ],
+      "subtotal": 450,
+      "discountCode": "WELCOME10",
+      "discountAmount": 45,
+      "shippingMethod": {
+        "id": "standard",
+        "name": "Atelier Standard Delivery",
+        "description": "3–5 business days via carbon-neutral courier. Complimentary on orders over $150.",
+        "price": 8,
+        "freeThreshold": 150
+      },
+      "shippingCost": 0,
+      "taxRegion": "CA",
+      "taxRate": 0.0925,
+      "taxAmount": 37.46,
+      "total": 442.46,
+      "status": "Delivered",
+      "paymentMethod": "stripe_card",
+      "stripePaymentIntentId": "pi_test_89241_simulated",
+      "trackingNumber": "AUR-FEDEX-998241US",
+      "createdAt": "2026-10-27T12:14:48.665Z",
+      "updatedAt": "2026-10-31T12:14:48.665Z",
+      "emailReceiptSent": true
+    },
+    {
+      "id": "ORD-90112",
+      "customer": {
+        "fullName": "Sophie Laurent",
+        "email": "sophie.l@example.com",
+        "phone": "+1 (212) 555-8374",
+        "street": "72 Mercer Street",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10012",
+        "country": "United States"
+      },
+      "items": [
+        {
+          "productId": "prod-11",
+          "name": "The Helene Double-Breasted Wool Coat",
+          "price": 540,
+          "size": "M",
+          "color": {
+            "name": "Classic Camel",
+            "hex": "#B08A60"
+          },
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1539533018447-63fcce667823?auto=format&fit=crop&w=1000&q=80"
+        }
+      ],
+      "subtotal": 540,
+      "discountCode": "ELEGANCE20",
+      "discountAmount": 108,
+      "shippingMethod": {
+        "id": "express",
+        "name": "Express Courier Priority",
+        "description": "1–2 business days guaranteed priority handling & gift packaging.",
+        "price": 22
+      },
+      "shippingCost": 22,
+      "taxRegion": "NY",
+      "taxRate": 0.08875,
+      "taxAmount": 38.34,
+      "total": 492.34,
+      "status": "Shipped",
+      "paymentMethod": "stripe_card",
+      "stripePaymentIntentId": "pi_test_90112_simulated",
+      "trackingNumber": "AUR-UPS-772911NY",
+      "createdAt": "2026-10-31T12:14:48.665Z",
+      "updatedAt": "2026-11-01T12:14:48.665Z",
+      "emailReceiptSent": true
+    }
+  ],
+  "users": [
+    {
+      "id": "user-demo-1",
+      "name": "Eleanor Vance",
+      "email": "eleanor.vance@example.com",
+      "password": "f7c629f0568db2d3c5090d0997c6adc9:9bee20a0285ca8638eaf2834ea1bc42e51d2ce932809ee04aba9605d89ad9cf77aa264dcba56ea1994d694730309f75aa58e9fd674da2fa8155c5f4a0dbf06e3",
+      "addresses": [
+        {
+          "fullName": "Eleanor Vance",
+          "email": "eleanor.vance@example.com",
+          "phone": "+1 (415) 555-0192",
+          "street": "450 Sutter Street",
+          "apartment": "Apt 12B",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipCode": "94108",
+          "country": "United States",
+          "isDefault": true
+        }
+      ],
+      "createdAt": "2026-01-15T10:00:00.000Z"
+    }
+  ],
+  "discounts": [
+    {
+      "id": "disc-1",
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "minOrderValue": 100,
+      "expiryDate": "2027-12-31T23:59:59.000Z",
+      "usageCount": 143,
+      "isActive": true
+    },
+    {
+      "id": "disc-2",
+      "code": "ELEGANCE20",
+      "type": "percentage",
+      "value": 20,
+      "minOrderValue": 200,
+      "expiryDate": "2027-12-31T23:59:59.000Z",
+      "usageCount": 89,
+      "isActive": true
+    },
+    {
+      "id": "disc-3",
+      "code": "LUXE50",
+      "type": "fixed",
+      "value": 50,
+      "minOrderValue": 350,
+      "expiryDate": "2027-12-31T23:59:59.000Z",
+      "usageCount": 45,
+      "isActive": true
+    },
+    {
+      "id": "disc-4",
+      "code": "SUMMERSALE",
+      "type": "percentage",
+      "value": 15,
+      "minOrderValue": 150,
+      "expiryDate": "2027-08-31T23:59:59.000Z",
+      "usageCount": 68,
+      "isActive": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1793640485638",
+      "productId": "prod-2",
+      "orderId": "AUR-353479",
+      "customerName": "Amara Patel",
+      "customerEmail": "amara@example.com",
+      "rating": 5,
+      "title": "Simply Heavenly Linen",
+      "comment": "The champagne hue and breezy French linen drape effortlessly. Unmatched craft from Priya Collections.",
+      "fitFeedback": "True to Size",
+      "sizePurchased": "M",
+      "colorPurchased": "Champagne",
+      "createdAt": "2026-11-02T17:28:05.638Z",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-101",
+      "productId": "prod-1",
+      "orderId": "ORD-89241",
+      "customerName": "Eleanor Vance",
+      "customerEmail": "eleanor.vance@example.com",
+      "rating": 5,
+      "title": "The drape of this mulberry silk is incomparable",
+      "comment": "The bias cut contours naturally without clinging. The Champagne Gold tone possesses an understated candlelight sheen. Hand-rolled hems demonstrate exceptional artisan tailoring.",
+      "sizePurchased": "S",
+      "colorPurchased": "Champagne Gold",
+      "fitFeedback": "True to Size",
+      "createdAt": "2026-10-30T17:26:45.620Z",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-102",
+      "productId": "prod-1",
+      "orderId": "ORD-84192",
+      "customerName": "Vivienne Claire",
+      "customerEmail": "vivienne.c@example.com",
+      "rating": 5,
+      "title": "An atelier essential",
+      "comment": "Wore this for an evening gala and received compliments all night. The delicate cowl neckline sits poised without gaping. Worth every penny for pure 22-momme silk.",
+      "sizePurchased": "M",
+      "colorPurchased": "Midnight Noir",
+      "fitFeedback": "True to Size",
+      "createdAt": "2026-10-28T17:26:45.620Z",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-103",
+      "productId": "prod-4",
+      "orderId": "ORD-89241",
+      "customerName": "Eleanor Vance",
+      "customerEmail": "eleanor.vance@example.com",
+      "rating": 5,
+      "title": "Architectural poplin tailoring",
+      "comment": "The elongated French cuffs and crossover wrap silhouette elevate this beyond any standard blouse. Crisp, breathable 120-thread organic cotton.",
+      "sizePurchased": "S",
+      "colorPurchased": "Optic White",
+      "fitFeedback": "True to Size",
+      "createdAt": "2026-10-31T17:26:45.620Z",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-104",
+      "productId": "prod-11",
+      "orderId": "ORD-77291",
+      "customerName": "Beatrice Howard",
+      "customerEmail": "beatrice.h@example.com",
+      "rating": 5,
+      "title": "Double-faced cashmere masterpiece",
+      "comment": "Featherlight warmth and hand-pick stitching that rivals savile row overcoats. A generational investment piece.",
+      "sizePurchased": "M",
+      "colorPurchased": "Classic Camel",
+      "fitFeedback": "True to Size",
+      "createdAt": "2026-10-25T17:26:45.620Z",
+      "verifiedPurchase": true
+    }
+  ],
+  "resetTokens": []
+}

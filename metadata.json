@@ -1,0 +1,8 @@
+{
+  "name": "Trendora — Fashion & Lifestyle Online Shopping",
+  "description": "Myntra-inspired modern fashion e-commerce web app for clothing, footwear, accessories & beauty with responsive mega menus, live search, 60+ curated products, and seamless simulated checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
